@@ -1,0 +1,101 @@
+name,address_street_number,address_street_name,address_city,address_state,address_zip,phone_area_code,phone_local_exchange,email,website,category
+Miami Plumbing Experts,1234,Coral Way,Miami,FL,33145,305,555-1111,contact@miamiplumbingexperts.com,https://www.miamiplumbingexperts.com/search?q=query+term&sort=asc,plumbers
+Tampa Bay Plumbers Inc.,5678,Bayshore Blvd,Tampa,FL,33611,813,555-2222,info@tampabayplumbers.com,https://www.tampabayplumbers.com/page?id=123&category=shoes%26bags,plumbers
+Clearwater Flow Solutions,4321,Gulf Street,Clearwater,FL,33756,727,555-3333,,,plumbers
+Orlando Rapid Repair Plumbers,7890,Orange Avenue,Orlando,FL,32801,407,555-4444,contact@orlandorapidrepair.com,http://www.orlandorapidrepair.com:8080/path/to/page?param=value,plumbers
+Fort Lauderdale Plumbing Services,1357,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-5555,,,plumbers
+Jacksonville Pipe Masters,2468,Riverside Drive,Jacksonville,FL,32204,904,555-6666,info@jacksonvillepipemasters.com,https://www.jacksonvillepipemasters.com/users/john%40example.com/profile,plumbers
+Sarasota Leak Detection & Repair,7532,Main Street,Sarasota,FL,34236,941,555-7777,contact@sarasotaleakrepair.com,http://www.sarasotaleakrepair.com,plumbers
+Pensacola Pro Plumbers,9876,Bayview Avenue,Pensacola,FL,32501,850,555-8888,,,plumbers
+Pipe Guy,9877,Bayview Avenue,Pensacola,FL,32501,850,555-8881,info@pipeguy.net,https://www.pipeguy.net,plumbers
+We Know Plumbing,9878,Bayview Avenue,Pensacola,FL,32501,850,555-8882,mike@weknowplumbing.us,https://www.weknowplumbing.us,plumbers
+Miami Legal Associates,1111,Brickell Avenue,Miami,FL,33131,305,555-1234,info@miamilegalassociates.com,http://www.miamilegalassociates.com,attorneys
+Tampa Bay Law Firm,2222,Bayshore Blvd,Tampa,FL,33611,813,555-2345,,,attorneys
+Clearwater Defense Attorneys,3333,Gulf Street,Clearwater,FL,33756,727,555-3456,contact@clearwaterdefense.com,http://www.clearwaterdefense.com,attorneys
+Orlando Legal Experts,4444,Orange Avenue,Orlando,FL,32801,407,555-4567,info@orlandolegalexperts.com,http://www.orlandolegalexperts.com,attorneys
+Fort Lauderdale Law Associates,5555,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-5678,,,attorneys
+Jacksonville Trial Lawyers,6666,Riverside Drive,Jacksonville,FL,32204,904,555-6789,contact@jaxtriallawyers.com,http://www.jaxtriallawyers.com,attorneys
+Sarasota Legal Solutions,7777,Main Street,Sarasota,FL,34236,941,555-7890,info@sarasotalegalsolutions.com,http://www.sarasotalegalsolutions.com,attorneys
+Pensacola Law Office,8888,Bayview Avenue,Pensacola,FL,32501,850,555-8901,,,attorneys
+Tallahassee Litigation Specialists,9999,Capital Circle NE,Tallahassee,FL,32308,850,555-9012,contact@tallahasseelitigation.com,http://www.tallahasseelitigation.com,attorneys
+Boca Raton Legal Firm,0000,Palmetto Park Road,Boca Raton,FL,33487,561,555-0123,info@bocaratonlegalfirm.com,http://www.bocaratonlegalfirm.com,attorneys
+Miami Law Partners,123,Lincoln Road,Miami,FL,33139,305,555-5678,info@miamilawpartners.com,http://www.miamilawpartners.com,attorneys
+Tampa Bay Legal Advisors,456,Bay Avenue,Tampa,FL,33606,813,555-6789,,,attorneys
+Clearwater Law Services,789,Gulf Street,Clearwater,FL,33756,727,555-7890,contact@clearwaterlawservices.com,http://www.clearwaterlawservices.com,attorneys
+Orlando Defense Lawyers,101,Orange Avenue,Orlando,FL,32801,407,555-8901,info@orlandodefenselawyers.com,http://www.orlandodefenselawyers.com,attorneys
+Fort Lauderdale Legal Experts,202,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-9012,,,attorneys
+Jacksonville Law Associates,303,Riverside Drive,Jacksonville,FL,32204,904,555-1234,contact@jacksonvillelawassociates.com,http://www.jacksonvillelawassociates.com,attorneys
+Sarasota Litigation Attorneys,404,Main Street,Sarasota,FL,34236,941,555-2345,info@sarasotalitigation.com,http://www.sarasotalitigation.com,attorneys
+Pensacola Legal Services,505,Bayview Avenue,Pensacola,FL,32501,850,555-3456,,,attorneys
+Tallahassee Law Office,606,Capital Circle NE,Tallahassee,FL,32308,850,555-4567,contact@tallahasseelawoffice.com,http://www.tallahasseelawoffice.com,attorneys
+Boca Raton Law Firm,707,Palmetto Park Road,Boca Raton,FL,33487,561,555-5678,info@bocaratonlawfirm.com,http://www.bocaratonlawfirm.com,attorneys
+Miami Family Medical Center,1111,Biscayne Blvd,Miami,FL,33132,305,555-1111,info@miamifamilymedical.com,http://www.miamifamilymedical.com,doctors
+Tampa Bay Cardiology Clinic,2222,Franklin Street,Tampa,FL,33602,813,555-2222,,,doctors
+Clearwater Pediatrics Associates,3333,Sunset Drive,Clearwater,FL,33756,727,555-3333,contact@clearwaterpediatrics.com,http://www.clearwaterpediatrics.com,doctors
+Orlando Orthopedic Specialists,4444,Lake Avenue,Orlando,FL,32801,407,555-4444,info@orlandoorthopedics.com,http://www.orlandoorthopedics.com,doctors
+Fort Lauderdale Women's Health Center,5555,Pine Street,Fort Lauderdale,FL,33301,954,555-5555,,,doctors
+Jacksonville Mental Health Clinic,6666,Magnolia Avenue,Jacksonville,FL,32204,904,555-6666,contact@jacksonvillementalhealth.com,http://www.jacksonvillementalhealth.com,doctors
+Sarasota Dermatology Center,7777,Gulf Street,Sarasota,FL,34236,941,555-7777,info@sarasotadermatology.com,http://www.sarasotadermatology.com,doctors
+Pensacola Internal Medicine Practice,8888,Cedar Street,Pensacola,FL,32501,850,555-8888,,,doctors
+Tallahassee Neurology Specialists,9999,Adams Street,Tallahassee,FL,32308,850,555-9999,contact@tallahasseeneurology.com,http://www.tallahasseeneurology.com,doctors
+Boca Raton Dental Care Center,0000,Ocean Blvd,Boca Raton,FL,33487,561,555-0000,info@bocaratondentalcare.com,http://www.bocaratondentalcare.com,doctors
+Miami General Hospital,123,Lincoln Road,Miami,FL,33139,305,555-5678,info@miamigeneralhospital.com,http://www.miamigeneralhospital.com,doctors
+Tampa Bay Psychiatry Center,456,Bay Avenue,Tampa,FL,33606,813,555-6789,,,doctors
+Clearwater Family Clinic,789,Gulf Street,Clearwater,FL,33756,727,555-7890,contact@clearwaterfamilyclinic.com,http://www.clearwaterfamilyclinic.com,doctors
+Orlando Internal Medicine Practice,101,Orange Avenue,Orlando,FL,32801,407,555-8901,info@orlandointernalmedicine.com,http://www.orlandointernalmedicine.com,doctors
+Fort Lauderdale Behavioral Health Center,202,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-9012,,,doctors
+Jacksonville Surgical Specialists,303,Riverside Drive,Jacksonville,FL,32204,904,555-1234,contact@jacksonvillesurgical.com,http://www.jacksonvillesurgical.com,doctors
+Sarasota Allergy and Immunology Clinic,404,Main Street,Sarasota,FL,34236,941,555-2345,info@sarasotaallergy.com,http://www.sarasotaallergy.com,doctors
+Pensacola Gastroenterology Center,505,Bayview Avenue,Pensacola,FL,32501,850,555-3456,,,doctors
+Tallahassee Family Practice,606,Capital Circle NE,Tallahassee,FL,32308,850,555-4567,contact@tallahasseefamilypractice.com,http://www.tallahasseefamilypractice.com,doctors
+Boca Raton Wellness Clinic,707,Palmetto Park Road,Boca Raton,FL,33487,561,555-5678,info@bocaratonwellness.com,http://www.bocaratonwellness.com,doctors
+Miami Pediatric Associates,789,Brickell Avenue,Miami,FL,33131,305,555-2345,info@miamipediatric.com,http://www.miamipediatric.com,doctors
+Tampa Bay Medical Specialists,987,Bayshore Blvd,Tampa,FL,33611,813,555-3456,,,doctors
+Clearwater Surgical Center,654,Gulf Street,Clearwater,FL,33756,727,555-4567,contact@clearwatersurgical.com,http://www.clearwatersurgical.com,doctors
+Orlando Oncology Clinic,321,Orange Avenue,Orlando,FL,32801,407,555-5678,info@orlandooncologyclinic.com,http://www.orlandooncologyclinic.com,doctors
+Fort Lauderdale Pain Management Center,135,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-6789,,,doctors
+Jacksonville Urology Specialists,246,Riverside Drive,Jacksonville,FL,32204,904,555-7890,contact@jacksonvilleurology.com,http://www.jacksonvilleurology.com,doctors
+Sarasota Physical Therapy Center,987,Main Street,Sarasota,FL,34236,941,555-8901,info@sarasotaptcenter.com,http://www.sarasotaptcenter.com,doctors
+Pensacola Neurosurgery Clinic,654,Bayview Avenue,Pensacola,FL,32501,850,555-9012,,,doctors
+Tallahassee Pain Clinic,321,Capital Circle NE,Tallahassee,FL,32308,850,555-0123,contact@tallahasseepainclinic.com,http://www.tallahasseepainclinic.com,doctors
+Boca Raton Dermatology Practice,012,Palmetto Park Road,Boca Raton,FL,33487,561,555-2345,info@bocaratondermatology.com,http://www.bocaratondermatology.com,doctors
+Miami Spice Grill,1111,Ocean Drive,Miami,FL,33139,305,555-1111,,,restaurants
+Tampa Bay Seafood Shack,2222,Bay Avenue,Tampa,FL,33606,813,555-2222,info@tampabayseafood.com,http://www.tampabayseafood.com,restaurants
+Clearwater Bistro & Bar,3333,Beach Street,Clearwater,FL,33756,727,555-3333,contact@clearwaterbistro.com,http://www.clearwaterbistro.com,restaurants
+Orlando Fusion Cuisine,4444,Park Avenue,Orlando,FL,32801,407,555-4444,info@orlandofusioncuisine.com,http://www.orlandofusioncuisine.com,restaurants
+Fort Lauderdale Grille House,5555,Las Olas Blvd,Fort Lauderdale,FL,33301,954,555-5555,,,restaurants
+Jacksonville BBQ Joint,6666,Riverside Avenue,Jacksonville,FL,32204,904,555-6666,contact@jaxbbqjoint.com,http://www.jaxbbqjoint.com,restaurants
+Sarasota Italian Trattoria,7777,Main Street,Sarasota,FL,34236,941,555-7777,info@sarasotaitalian.com,http://www.sarasotaitalian.com,restaurants
+Pensacola Diner Delight,8888,Pensacola Beach Road,Pensacola,FL,32502,850,555-8888,,,restaurants
+Tallahassee Sushi Spot,9999,Capital Circle SW,Tallahassee,FL,32310,850,555-9999,contact@tallahasseesushi.com,http://www.tallahasseesushi.com,restaurants
+Boca Raton Beachside Cafe,0000,Apple Blvd,Boca Raton,FL,33487,561,555-0000,info@bocabeachsidecafe.com,http://www.bocabeachsidecafe.com,restaurants
+Miami Grilled Delights,123,Lincoln Road,Miami,FL,33139,305,555-2345,,,restaurants
+Tampa Bay Tacos & Tequila,456,Bay Avenue,Tampa,FL,33606,813,555-3456,info@tampabaytacos.com,http://www.tampabaytacos.com,restaurants
+Clearwater Coastal Cuisine,789,Gulf Street,Clearwater,FL,33756,727,555-4567,contact@clearwatercoastal.com,http://www.clearwatercoastal.com,restaurants
+Orlando Pan-Asian Kitchen,101,Orange Avenue,Orlando,FL,32801,407,555-5678,info@orlandopanasian.com,http://www.orlandopanasian.com,restaurants
+Fort Lauderdale Vegan Haven,202,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-6789,,,restaurants
+Jacksonville Seafood Sensation,303,Riverside Drive,Jacksonville,FL,32204,904,555-7890,contact@jaxseafoodsensation.com,http://www.jaxseafoodsensation.com,restaurants
+Sarasota French Bistro,404,Main Street,Sarasota,FL,34236,941,555-8901,info@sarasotafrenchbistro.com,http://www.sarasotafrenchbistro.com,restaurants
+Pensacola Southern Kitchen,505,Bayview Avenue,Pensacola,FL,32501,850,555-9012,,,restaurants
+Tallahassee Burger Joint,606,Capital Circle NE,Tallahassee,FL,32308,850,555-0123,contact@tallahasseeburgers.com,http://www.tallahasseeburgers.com,restaurants
+Boca Raton Thai Cuisine,707,Palmetto Park Road,Boca Raton,FL,33487,561,555-2345,info@bocaratonthai.com,http://www.bocaratonthai.com,restaurants
+Miami Coastal Grill,123,Ocean Drive,Miami,FL,33139,305,555-3456,info@miamicoastalgrill.com,http://www.miamicoastalgrill.com,restaurants
+Tampa Bay Steakhouse,456,Bayshore Blvd,Tampa,FL,33611,813,555-4567,,,restaurants
+Clearwater Vegan Delight,789,Gulfview Avenue,Clearwater,FL,33756,727,555-5678,contact@clearwatervgdelight.com,http://www.clearwatervgdelight.com,restaurants
+Orlando Brazilian BBQ,101,Orange Blossom Trail,Orlando,FL,32801,407,555-6789,info@orlandobbq.com,http://www.orlandobbq.com,restaurants
+Fort Lauderdale Italian Trattoria,202,Las Olas Blvd,Fort Lauderdale,FL,33301,954,555-7890,,,restaurants
+Jacksonville Mexican Cantina,303,Magnolia Avenue,Jacksonville,FL,32204,904,555-8901,contact@jaxmexicancantina.com,http://www.jaxmexicancantina.com,restaurants
+Sarasota Thai Street Food,404,Gulf Street,Sarasota,FL,34236,941,555-9012,info@sarasotathaistreetfood.com,http://www.sarasotathaistreetfood.com,restaurants
+Pensacola Seafront Diner,505,Bayview Avenue,Pensacola,FL,32501,850,555-0123,,,restaurants
+Tallahassee Continental Cafe,606,Capital Circle NE,Tallahassee,FL,32308,850,555-1234,contact@tallahasseecontinental.com,http://www.tallahasseecontinental.com,restaurants
+Boca Raton Fresh Catch,707,Palmetto Park Road,Boca Raton,FL,33487,561,555-2345,info@bocaratonfreshcatch.com,http://www.bocaratonfreshcatch.com,restaurants
+Miami Vegan Oasis,123,Ocean Drive,Miami,FL,33139,305,555-3456,,,restaurants
+Tampa Bay Pizza Place,456,Bayshore Blvd,Tampa,FL,33611,813,555-4567,info@tampabaypizza.com,http://www.tampabaypizza.com,restaurants
+Clearwater Caribbean Cuisine,789,Gulfview Avenue,Clearwater,FL,33756,727,555-5678,contact@clearwatercaribbean.com,http://www.clearwatercaribbean.com,restaurants
+Orlando Vegetarian Haven,101,Orange Blossom Trail,Orlando,FL,32801,407,555-6789,info@orlandovegetarianhaven.com,http://www.orlandovegetarianhaven.com,restaurants
+Fort Lauderdale Sushi Bar,202,Las Olas Blvd,Fort Lauderdale,FL,33301,954,555-7890,,,restaurants
+Jacksonville Indian Eatery,303,Magnolia Avenue,Jacksonville,FL,32204,904,555-8901,contact@jaxindianeatery.com,http://www.jaxindianeatery.com,restaurants
+Sarasota Greek Taverna,404,Gulf Street,Sarasota,FL,34236,941,555-9012,info@sarasotagreektaverna.com,http://www.sarasotagreektaverna.com,restaurants
+Pensacola Italian Delight,505,Bayview Avenue,Pensacola,FL,32501,850,555-0123,,,restaurants
+Tallahassee Mexican Grill,606,Capital Circle NE,Tallahassee,FL,32308,850,555-1234,contact@tallahasseemexicangrill.com,http://www.tallahasseemexicangrill.com,restaurants
+Boca Raton Vietnamese Pho,707,Palmetto Park Road,Boca Raton,FL,33487,561,555-2345,info@bocaratonpho.com,http://www.bocaratonpho.com,restaurants

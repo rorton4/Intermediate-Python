@@ -1,0 +1,79 @@
+name: Emily Johnson
+address: 789 Palm Avenue - Orlando, FL 32801
+phone: (407) 555-4444
+
+name: Tyrone Washington
+address: 2345 Magnolia Drive - Jacksonville, FL 32210
+phone: (904) 555-5555
+
+name: Wei Chen
+address: 876 Oak Street - Miami, FL 33131
+phone: (305) 555-6666
+
+name: Priya Kapoor
+address: 54321 Pinecrest Lane - Tampa, FL 33602
+phone: (813) 555-7777
+
+name: Carlos Rodriguez
+address: 6789 Coral Way - Orlando, FL 32805
+phone: (407) 555-8888
+
+name: Mei Lin
+address: 123 Bamboo Road - Boca Raton, FL 33428
+phone: (561) 555-9999
+
+name: Jamal Al-Farsi
+address: 432 Coconut Lane - Fort Lauderdale, FL 33301
+phone: (954) 555-0000
+
+name: Ananya Singh
+address: 765 Beach Boulevard - Petersburg, FL 33705
+phone: (727) 555-1010
+
+name: Eduardo Garcia
+address: 87654 Seaside Drive - Miami, FL 33155
+phone: (305) 555-1212
+
+name: Ling Wong
+address: 4567 Lily Lane - Orlando, FL 32822
+phone: (407) 555-1313
+
+name: Aisha Khan
+address: 987 Palm Tree Road - Tallahassee, FL 32301
+phone: (850) 555-1414
+
+name: Ahmed Mahmoud
+address: 123 Sand Dune Avenue - Daytona Beach, FL 32114
+phone: (386) 555-1515
+
+name: Diego Herrera
+address: 54321 Sierra Street - Gainesville, FL 32601
+phone: (352) 555-1616
+
+name: Mei Ling
+address: 789 Orchid Lane - Fort Myers, FL 33901
+phone: (239) 555-1717
+
+name: Rajesh Patel
+address: 234 Maple Street - Sarasota, FL 34236
+phone: (941) 555-1818
+
+name: Olivia White
+address: 876 Palm Grove Avenue - Miami Beach, FL 33139
+phone: (305) 555-1919
+
+name: Kwame Boateng
+address: 345 River Road - Tallahassee, FL 32303
+phone: (850) 555-2020
+
+name: Yuki Tanaka
+address: 678 Pine Street - Orlando, FL 32811
+phone: (407) 555-2121
+
+name: Isabella Santiago
+address: 123 Jasmine Lane - Fort Lauderdale, FL 33304
+phone: (954) 555-2222
+
+name: Mohammad Khan
+address: 456 Magnolia Avenue - Tampa, FL 33606
+phone: (813) 555-2323

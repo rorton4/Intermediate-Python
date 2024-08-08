@@ -1,0 +1,699 @@
+name: Miami Plumbing Experts
+address: 1234 Coral Way - Miami, FL 33145
+phone: (305) 555-1111
+email: contact@miamiplumbingexperts.com
+website: https://www.miamiplumbingexperts.com/search?q=query+term&sort=asc
+category: plumbers
+
+name: Tampa Bay Plumbers Inc.
+address: 5678 Bayshore Blvd - Tampa, FL 33611
+phone: (813) 555-2222
+email: info@tampabayplumbers.com
+website: https://www.tampabayplumbers.com/page?id=123&category=shoes%26bags
+category: plumbers
+
+name: Clearwater Flow Solutions
+address: 4321 Gulf Street - Clearwater, FL 33756
+phone: (727) 555-3333
+email: 
+website: 
+category: plumbers
+
+name: Orlando Rapid Repair Plumbers
+address: 7890 Orange Avenue - Orlando, FL 32801
+phone: (407) 555-4444
+email: contact@orlandorapidrepair.com
+website: http://www.orlandorapidrepair.com:8080/path/to/page?param=value
+category: plumbers
+
+name: Fort Lauderdale Plumbing Services
+address: 1357 Atlantic Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-5555
+email: 
+website: 
+category: plumbers
+
+name: Jacksonville Pipe Masters
+address: 2468 Riverside Drive - Jacksonville, FL 32204
+phone: (904) 555-6666
+email: info@jacksonvillepipemasters.com
+website: https://www.jacksonvillepipemasters.com/users/john%40example.com/profile
+category: plumbers
+
+name: Sarasota Leak Detection & Repair
+address: 7532 Main Street - Sarasota, FL 34236
+phone: (941) 555-7777
+email: contact@sarasotaleakrepair.com
+website: http://www.sarasotaleakrepair.com
+category: plumbers
+
+name: Pensacola Pro Plumbers
+address: 9876 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-8888
+email: 
+website: 
+category: plumbers
+
+name: Pipe Guy
+address: 9877 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-8881
+email: info@pipeguy.net
+website: https://www.pipeguy.net
+category: plumbers
+
+name: We Know Plumbing
+address: 9878 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-8882
+email: mike@weknowplumbing.us
+website: https://www.weknowplumbing.us
+category: plumbers
+
+name: Miami Legal Associates
+address: 1111 Brickell Avenue - Miami, FL 33131
+phone: (305) 555-1234
+email: info@miamilegalassociates.com
+website: http://www.miamilegalassociates.com
+category: attorneys
+
+name: Tampa Bay Law Firm
+address: 2222 Bayshore Blvd - Tampa, FL 33611
+phone: (813) 555-2345
+email: 
+website: 
+category: attorneys
+
+name: Clearwater Defense Attorneys
+address: 3333 Gulf Street - Clearwater, FL 33756
+phone: (727) 555-3456
+email: contact@clearwaterdefense.com
+website: http://www.clearwaterdefense.com
+category: attorneys
+
+name: Orlando Legal Experts
+address: 4444 Orange Avenue - Orlando, FL 32801
+phone: (407) 555-4567
+email: info@orlandolegalexperts.com
+website: http://www.orlandolegalexperts.com
+category: attorneys
+
+name: Fort Lauderdale Law Associates
+address: 5555 Atlantic Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-5678
+email: 
+website: 
+category: attorneys
+
+name: Jacksonville Trial Lawyers
+address: 6666 Riverside Drive - Jacksonville, FL 32204
+phone: (904) 555-6789
+email: contact@jaxtriallawyers.com
+website: http://www.jaxtriallawyers.com
+category: attorneys
+
+name: Sarasota Legal Solutions
+address: 7777 Main Street - Sarasota, FL 34236
+phone: (941) 555-7890
+email: info@sarasotalegalsolutions.com
+website: http://www.sarasotalegalsolutions.com
+category: attorneys
+
+name: Pensacola Law Office
+address: 8888 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-8901
+email: 
+website: 
+category: attorneys
+
+name: Tallahassee Litigation Specialists
+address: 9999 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-9012
+email: contact@tallahasseelitigation.com
+website: http://www.tallahasseelitigation.com
+category: attorneys
+
+name: Boca Raton Legal Firm
+address: 0000 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-0123
+email: info@bocaratonlegalfirm.com
+website: http://www.bocaratonlegalfirm.com
+category: attorneys
+
+name: Miami Law Partners
+address: 123 Lincoln Road - Miami, FL 33139
+phone: (305) 555-5678
+email: info@miamilawpartners.com
+website: http://www.miamilawpartners.com
+category: attorneys
+
+name: Tampa Bay Legal Advisors
+address: 456 Bay Avenue - Tampa, FL 33606
+phone: (813) 555-6789
+email: 
+website: 
+category: attorneys
+
+name: Clearwater Law Services
+address: 789 Gulf Street - Clearwater, FL 33756
+phone: (727) 555-7890
+email: contact@clearwaterlawservices.com
+website: http://www.clearwaterlawservices.com
+category: attorneys
+
+name: Orlando Defense Lawyers
+address: 101 Orange Avenue - Orlando, FL 32801
+phone: (407) 555-8901
+email: info@orlandodefenselawyers.com
+website: http://www.orlandodefenselawyers.com
+category: attorneys
+
+name: Fort Lauderdale Legal Experts
+address: 202 Atlantic Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-9012
+email: 
+website: 
+category: attorneys
+
+name: Jacksonville Law Associates
+address: 303 Riverside Drive - Jacksonville, FL 32204
+phone: (904) 555-1234
+email: contact@jacksonvillelawassociates.com
+website: http://www.jacksonvillelawassociates.com
+category: attorneys
+
+name: Sarasota Litigation Attorneys
+address: 404 Main Street - Sarasota, FL 34236
+phone: (941) 555-2345
+email: info@sarasotalitigation.com
+website: http://www.sarasotalitigation.com
+category: attorneys
+
+name: Pensacola Legal Services
+address: 505 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-3456
+email: 
+website: 
+category: attorneys
+
+name: Tallahassee Law Office
+address: 606 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-4567
+email: contact@tallahasseelawoffice.com
+website: http://www.tallahasseelawoffice.com
+category: attorneys
+
+name: Boca Raton Law Firm
+address: 707 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-5678
+email: info@bocaratonlawfirm.com
+website: http://www.bocaratonlawfirm.com
+category: attorneys
+
+name: Miami Family Medical Center
+address: 1111 Biscayne Blvd - Miami, FL 33132
+phone: (305) 555-1111
+email: info@miamifamilymedical.com
+website: http://www.miamifamilymedical.com
+category: doctors
+
+name: Tampa Bay Cardiology Clinic
+address: 2222 Franklin Street - Tampa, FL 33602
+phone: (813) 555-2222
+email: 
+website: 
+category: doctors
+
+name: Clearwater Pediatrics Associates
+address: 3333 Sunset Drive - Clearwater, FL 33756
+phone: (727) 555-3333
+email: contact@clearwaterpediatrics.com
+website: http://www.clearwaterpediatrics.com
+category: doctors
+
+name: Orlando Orthopedic Specialists
+address: 4444 Lake Avenue - Orlando, FL 32801
+phone: (407) 555-4444
+email: info@orlandoorthopedics.com
+website: http://www.orlandoorthopedics.com
+category: doctors
+
+name: Fort Lauderdale Women's Health Center
+address: 5555 Pine Street - Fort Lauderdale, FL 33301
+phone: (954) 555-5555
+email: 
+website: 
+category: doctors
+
+name: Jacksonville Mental Health Clinic
+address: 6666 Magnolia Avenue - Jacksonville, FL 32204
+phone: (904) 555-6666
+email: contact@jacksonvillementalhealth.com
+website: http://www.jacksonvillementalhealth.com
+category: doctors
+
+name: Sarasota Dermatology Center
+address: 7777 Gulf Street - Sarasota, FL 34236
+phone: (941) 555-7777
+email: info@sarasotadermatology.com
+website: http://www.sarasotadermatology.com
+category: doctors
+
+name: Pensacola Internal Medicine Practice
+address: 8888 Cedar Street - Pensacola, FL 32501
+phone: (850) 555-8888
+email: 
+website: 
+category: doctors
+
+name: Tallahassee Neurology Specialists
+address: 9999 Adams Street - Tallahassee, FL 32308
+phone: (850) 555-9999
+email: contact@tallahasseeneurology.com
+website: http://www.tallahasseeneurology.com
+category: doctors
+
+name: Boca Raton Dental Care Center
+address: 0000 Ocean Blvd - Boca Raton, FL 33487
+phone: (561) 555-0000
+email: info@bocaratondentalcare.com
+website: http://www.bocaratondentalcare.com
+category: doctors
+
+name: Miami General Hospital
+address: 123 Lincoln Road - Miami, FL 33139
+phone: (305) 555-5678
+email: info@miamigeneralhospital.com
+website: http://www.miamigeneralhospital.com
+category: doctors
+
+name: Tampa Bay Psychiatry Center
+address: 456 Bay Avenue - Tampa, FL 33606
+phone: (813) 555-6789
+email: 
+website: 
+category: doctors
+
+name: Clearwater Family Clinic
+address: 789 Gulf Street - Clearwater, FL 33756
+phone: (727) 555-7890
+email: contact@clearwaterfamilyclinic.com
+website: http://www.clearwaterfamilyclinic.com
+category: doctors
+
+name: Orlando Internal Medicine Practice
+address: 101 Orange Avenue - Orlando, FL 32801
+phone: (407) 555-8901
+email: info@orlandointernalmedicine.com
+website: http://www.orlandointernalmedicine.com
+category: doctors
+
+name: Fort Lauderdale Behavioral Health Center
+address: 202 Atlantic Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-9012
+email: 
+website: 
+category: doctors
+
+name: Jacksonville Surgical Specialists
+address: 303 Riverside Drive - Jacksonville, FL 32204
+phone: (904) 555-1234
+email: contact@jacksonvillesurgical.com
+website: http://www.jacksonvillesurgical.com
+category: doctors
+
+name: Sarasota Allergy and Immunology Clinic
+address: 404 Main Street - Sarasota, FL 34236
+phone: (941) 555-2345
+email: info@sarasotaallergy.com
+website: http://www.sarasotaallergy.com
+category: doctors
+
+name: Pensacola Gastroenterology Center
+address: 505 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-3456
+email: 
+website: 
+category: doctors
+
+name: Tallahassee Family Practice
+address: 606 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-4567
+email: contact@tallahasseefamilypractice.com
+website: http://www.tallahasseefamilypractice.com
+category: doctors
+
+name: Boca Raton Wellness Clinic
+address: 707 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-5678
+email: info@bocaratonwellness.com
+website: http://www.bocaratonwellness.com
+category: doctors
+
+name: Miami Pediatric Associates
+address: 789 Brickell Avenue - Miami, FL 33131
+phone: (305) 555-2345
+email: info@miamipediatric.com
+website: http://www.miamipediatric.com
+category: doctors
+
+name: Tampa Bay Medical Specialists
+address: 987 Bayshore Blvd - Tampa, FL 33611
+phone: (813) 555-3456
+email: 
+website: 
+category: doctors
+
+name: Clearwater Surgical Center
+address: 654 Gulf Street - Clearwater, FL 33756
+phone: (727) 555-4567
+email: contact@clearwatersurgical.com
+website: http://www.clearwatersurgical.com
+category: doctors
+
+name: Orlando Oncology Clinic
+address: 321 Orange Avenue - Orlando, FL 32801
+phone: (407) 555-5678
+email: info@orlandooncologyclinic.com
+website: http://www.orlandooncologyclinic.com
+category: doctors
+
+name: Fort Lauderdale Pain Management Center
+address: 135 Atlantic Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-6789
+email: 
+website: 
+category: doctors
+
+name: Jacksonville Urology Specialists
+address: 246 Riverside Drive - Jacksonville, FL 32204
+phone: (904) 555-7890
+email: contact@jacksonvilleurology.com
+website: http://www.jacksonvilleurology.com
+category: doctors
+
+name: Sarasota Physical Therapy Center
+address: 987 Main Street - Sarasota, FL 34236
+phone: (941) 555-8901
+email: info@sarasotaptcenter.com
+website: http://www.sarasotaptcenter.com
+category: doctors
+
+name: Pensacola Neurosurgery Clinic
+address: 654 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-9012
+email: 
+website: 
+category: doctors
+
+name: Tallahassee Pain Clinic
+address: 321 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-0123
+email: contact@tallahasseepainclinic.com
+website: http://www.tallahasseepainclinic.com
+category: doctors
+
+name: Boca Raton Dermatology Practice
+address: 012 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-2345
+email: info@bocaratondermatology.com
+website: http://www.bocaratondermatology.com
+category: doctors
+
+name: Miami Spice Grill
+address: 1111 Ocean Drive - Miami, FL 33139
+phone: (305) 555-1111
+email: 
+website: 
+category: restaurants
+
+name: Tampa Bay Seafood Shack
+address: 2222 Bay Avenue - Tampa, FL 33606
+phone: (813) 555-2222
+email: info@tampabayseafood.com
+website: http://www.tampabayseafood.com
+category: restaurants
+
+name: Clearwater Bistro & Bar
+address: 3333 Beach Street - Clearwater, FL 33756
+phone: (727) 555-3333
+email: contact@clearwaterbistro.com
+website: http://www.clearwaterbistro.com
+category: restaurants
+
+name: Orlando Fusion Cuisine
+address: 4444 Park Avenue - Orlando, FL 32801
+phone: (407) 555-4444
+email: info@orlandofusioncuisine.com
+website: http://www.orlandofusioncuisine.com
+category: restaurants
+
+name: Fort Lauderdale Grille House
+address: 5555 Las Olas Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-5555
+email: 
+website: 
+category: restaurants
+
+name: Jacksonville BBQ Joint
+address: 6666 Riverside Avenue - Jacksonville, FL 32204
+phone: (904) 555-6666
+email: contact@jaxbbqjoint.com
+website: http://www.jaxbbqjoint.com
+category: restaurants
+
+name: Sarasota Italian Trattoria
+address: 7777 Main Street - Sarasota, FL 34236
+phone: (941) 555-7777
+email: info@sarasotaitalian.com
+website: http://www.sarasotaitalian.com
+category: restaurants
+
+name: Pensacola Diner Delight
+address: 8888 Pensacola Beach Road - Pensacola, FL 32502
+phone: (850) 555-8888
+email: 
+website: 
+category: restaurants
+
+name: Tallahassee Sushi Spot
+address: 9999 Capital Circle SW - Tallahassee, FL 32310
+phone: (850) 555-9999
+email: contact@tallahasseesushi.com
+website: http://www.tallahasseesushi.com
+category: restaurants
+
+name: Boca Raton Beachside Cafe
+address: 0000 Apple Blvd - Boca Raton, FL 33487
+phone: (561) 555-0000
+email: info@bocabeachsidecafe.com
+website: http://www.bocabeachsidecafe.com
+category: restaurants
+
+name: Miami Grilled Delights
+address: 123 Lincoln Road - Miami, FL 33139
+phone: (305) 555-2345
+email: 
+website: 
+category: restaurants
+
+name: Tampa Bay Tacos & Tequila
+address: 456 Bay Avenue - Tampa, FL 33606
+phone: (813) 555-3456
+email: info@tampabaytacos.com
+website: http://www.tampabaytacos.com
+category: restaurants
+
+name: Clearwater Coastal Cuisine
+address: 789 Gulf Street - Clearwater, FL 33756
+phone: (727) 555-4567
+email: contact@clearwatercoastal.com
+website: http://www.clearwatercoastal.com
+category: restaurants
+
+name: Orlando Pan-Asian Kitchen
+address: 101 Orange Avenue - Orlando, FL 32801
+phone: (407) 555-5678
+email: info@orlandopanasian.com
+website: http://www.orlandopanasian.com
+category: restaurants
+
+name: Fort Lauderdale Vegan Haven
+address: 202 Atlantic Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-6789
+email: 
+website: 
+category: restaurants
+
+name: Jacksonville Seafood Sensation
+address: 303 Riverside Drive - Jacksonville, FL 32204
+phone: (904) 555-7890
+email: contact@jaxseafoodsensation.com
+website: http://www.jaxseafoodsensation.com
+category: restaurants
+
+name: Sarasota French Bistro
+address: 404 Main Street - Sarasota, FL 34236
+phone: (941) 555-8901
+email: info@sarasotafrenchbistro.com
+website: http://www.sarasotafrenchbistro.com
+category: restaurants
+
+name: Pensacola Southern Kitchen
+address: 505 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-9012
+email: 
+website: 
+category: restaurants
+
+name: Tallahassee Burger Joint
+address: 606 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-0123
+email: contact@tallahasseeburgers.com
+website: http://www.tallahasseeburgers.com
+category: restaurants
+
+name: Boca Raton Thai Cuisine
+address: 707 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-2345
+email: info@bocaratonthai.com
+website: http://www.bocaratonthai.com
+category: restaurants
+
+name: Miami Coastal Grill
+address: 123 Ocean Drive - Miami, FL 33139
+phone: (305) 555-3456
+email: info@miamicoastalgrill.com
+website: http://www.miamicoastalgrill.com
+category: restaurants
+
+name: Tampa Bay Steakhouse
+address: 456 Bayshore Blvd - Tampa, FL 33611
+phone: (813) 555-4567
+email: 
+website: 
+category: restaurants
+
+name: Clearwater Vegan Delight
+address: 789 Gulfview Avenue - Clearwater, FL 33756
+phone: (727) 555-5678
+email: contact@clearwatervgdelight.com
+website: http://www.clearwatervgdelight.com
+category: restaurants
+
+name: Orlando Brazilian BBQ
+address: 101 Orange Blossom Trail - Orlando, FL 32801
+phone: (407) 555-6789
+email: info@orlandobbq.com
+website: http://www.orlandobbq.com
+category: restaurants
+
+name: Fort Lauderdale Italian Trattoria
+address: 202 Las Olas Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-7890
+email: 
+website: 
+category: restaurants
+
+name: Jacksonville Mexican Cantina
+address: 303 Magnolia Avenue - Jacksonville, FL 32204
+phone: (904) 555-8901
+email: contact@jaxmexicancantina.com
+website: http://www.jaxmexicancantina.com
+category: restaurants
+
+name: Sarasota Thai Street Food
+address: 404 Gulf Street - Sarasota, FL 34236
+phone: (941) 555-9012
+email: info@sarasotathaistreetfood.com
+website: http://www.sarasotathaistreetfood.com
+category: restaurants
+
+name: Pensacola Seafront Diner
+address: 505 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-0123
+email: 
+website: 
+category: restaurants
+
+name: Tallahassee Continental Cafe
+address: 606 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-1234
+email: contact@tallahasseecontinental.com
+website: http://www.tallahasseecontinental.com
+category: restaurants
+
+name: Boca Raton Fresh Catch
+address: 707 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-2345
+email: info@bocaratonfreshcatch.com
+website: http://www.bocaratonfreshcatch.com
+category: restaurants
+
+name: Miami Vegan Oasis
+address: 123 Ocean Drive - Miami, FL 33139
+phone: (305) 555-3456
+email: 
+website: 
+category: restaurants
+
+name: Tampa Bay Pizza Place
+address: 456 Bayshore Blvd - Tampa, FL 33611
+phone: (813) 555-4567
+email: info@tampabaypizza.com
+website: http://www.tampabaypizza.com
+category: restaurants
+
+name: Clearwater Caribbean Cuisine
+address: 789 Gulfview Avenue - Clearwater, FL 33756
+phone: (727) 555-5678
+email: contact@clearwatercaribbean.com
+website: http://www.clearwatercaribbean.com
+category: restaurants
+
+name: Orlando Vegetarian Haven
+address: 101 Orange Blossom Trail - Orlando, FL 32801
+phone: (407) 555-6789
+email: info@orlandovegetarianhaven.com
+website: http://www.orlandovegetarianhaven.com
+category: restaurants
+
+name: Fort Lauderdale Sushi Bar
+address: 202 Las Olas Blvd - Fort Lauderdale, FL 33301
+phone: (954) 555-7890
+email: 
+website: 
+category: restaurants
+
+name: Jacksonville Indian Eatery
+address: 303 Magnolia Avenue - Jacksonville, FL 32204
+phone: (904) 555-8901
+email: contact@jaxindianeatery.com
+website: http://www.jaxindianeatery.com
+category: restaurants
+
+name: Sarasota Greek Taverna
+address: 404 Gulf Street - Sarasota, FL 34236
+phone: (941) 555-9012
+email: info@sarasotagreektaverna.com
+website: http://www.sarasotagreektaverna.com
+category: restaurants
+
+name: Pensacola Italian Delight
+address: 505 Bayview Avenue - Pensacola, FL 32501
+phone: (850) 555-0123
+email: 
+website: 
+category: restaurants
+
+name: Tallahassee Mexican Grill
+address: 606 Capital Circle NE - Tallahassee, FL 32308
+phone: (850) 555-1234
+email: contact@tallahasseemexicangrill.com
+website: http://www.tallahasseemexicangrill.com
+category: restaurants
+
+name: Boca Raton Vietnamese Pho
+address: 707 Palmetto Park Road - Boca Raton, FL 33487
+phone: (561) 555-2345
+email: info@bocaratonpho.com
+website: http://www.bocaratonpho.com
+category: restaurants

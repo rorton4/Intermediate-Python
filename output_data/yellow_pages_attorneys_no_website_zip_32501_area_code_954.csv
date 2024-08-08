@@ -1,0 +1,5 @@
+name,address_street_number,address_street_name,address_city,address_state,address_zip,phone_area_code,phone_local_exchange,email,website,category
+Fort Lauderdale Law Associates,5555,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-5678,,,attorneys
+Pensacola Law Office,8888,Bayview Avenue,Pensacola,FL,32501,850,555-8901,,,attorneys
+Fort Lauderdale Legal Experts,202,Atlantic Blvd,Fort Lauderdale,FL,33301,954,555-9012,,,attorneys
+Pensacola Legal Services,505,Bayview Avenue,Pensacola,FL,32501,850,555-3456,,,attorneys
